@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "136093322261",
+    "project_id": "spark-86d96",
+    "storage_bucket": "spark-86d96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136093322261:android:07ad284eaf58aab6c2121c",
+        "android_client_info": {
+          "package_name": "com.teamx.spark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136093322261-555hhejrm85jp0ql3rj22juqhfi8v59r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq1NvOz1D9XtU354nfs7jVSKiW5DEcTjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136093322261-555hhejrm85jp0ql3rj22juqhfi8v59r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "136093322261-cdl362vreunst9oi732f2dkep49pcqau.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teamx.spark"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
